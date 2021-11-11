@@ -1,0 +1,10 @@
+# Ignorando arquivos individualmente
+git_logo.jpg
+
+# Ignorando arquivos por extensão
+*.png
+
+# Ignorando diretórios
+vedor/
+node_modules/
+docs/
